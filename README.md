@@ -1,0 +1,1 @@
+# Is this SMS legit, or is it counterfeit?
